@@ -1,2 +1,2 @@
-# sanbox_mikova
-firt GIT repositary
+# sandbox_mikova
+first GIT repositary
